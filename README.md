@@ -18,7 +18,7 @@
 * 🎮 Concourse | Jenkin | Git | New relic | Splunk | Sonarqube | Varacode | Nexus
 
 
-<p align=center>
-<b>Let's create something awesome together!</b> <br>
+<!-- <p align=center>
+<b>Let's create something awesome together!</b> <br> -->
 <a href="https://www.linkedin.com/in/ankit-g-ba1174b/">LinkedIn</a> · <a href="https://stackshare.io/anki-gupta">StackShare</a> · <a href="https://stackoverflow.com/users/16065806/ankit">StackOverflow</a> · <a href="https://anki-gupta.github.io/online-cv/">Resume</a>
 </p>
