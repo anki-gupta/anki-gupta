@@ -2,13 +2,26 @@
 
 # Hi, I'm Ankit
 
-12.9 years of experience in software development. Expertise in Java, Spring, spring boot, hibernate, SQL, DevSecOps and cloud.
+Java professional with 13 years of experience in designing, developing, and deploying client-server, web, and distributed end-to-end enterprise applications.
 
-## Experience:
 
-* End to End experience in various phases of project including estimation, planning, desgin, requirement analysis, resource onboarding, training, development, code review, performance tuning, monitoring, migration, go live and production support.
-* Microservice Design using spring boot with cross cutting principles.
-* Expertise in DevSecOps. Build pipelines in concourse using YAML scripting including unit test, sonarqube, veracode, API testing, Browser testing, new relic, PCF depployment.
+## PROFESSIONAL SUMMARY:
+
+●	Experience in Health care domain
+● Experience in building enterprise applications using Java, Spring, spring boot, hibernate, SQL, DevOps, PCF, cloud technologies, following Agile Methodology.
+●	End to End experience in various phases of project including estimation, planning, design, requirement analysis, resource onboarding, training, development, code review, performance tuning, monitoring, migration, go live and production support.
+●	Microservice Design using spring boot with cross cutting principles.
+●	Expertise in project planning, proposal, estimation, and promising deliverables.
+●	Application Architecture design and database design.
+●	Designed interfaces using messaging queue (IBM MQ, RabbitMQ, Kafka), Rest services, MFT etc.
+●	Code Review using coding standards and best practices ensuring quality.
+●	Expertise in DevSecOps. Build pipelines in concourse using YAML scripting including unit test, SonarQube, Veracode, API testing, Browser testing, new relic, PCF deployment.
+●	Experience in high volume, mission critical applications.
+●	Application performance analysis and fix using new relic, confio, query tuning, indexing, pooling.
+●	Acquiring, allocating and onboarding of team members. Mentored their technical and professional progress. 
+●	Managed agile software delivery teams and worked closely with the product owner. Participation in agile ceremonies: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective.
+●	Identifying risk and conducting mitigation action planning.
+●	Triage technical issues and lead towards solving problems.
 
 ## Tech Stack
 
